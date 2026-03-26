@@ -51,5 +51,4 @@ for i in range(num_rows):
 <img width="201" height="225" alt="image" src="https://github.com/user-attachments/assets/80909f23-ed16-4ce7-9777-e276466620f9" />
 
 ## Result
-Thus, the program has been successfully executed
-
+Thus, the program has been successfully executed.
